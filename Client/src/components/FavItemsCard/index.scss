@@ -1,0 +1,16 @@
+.favItems_card{
+    .remove_from_wish{
+        button{
+         border: none;
+         outline: none;
+         background: none;
+         color: var(--dark-gray-color);
+         font-size: 1.3rem;
+        }
+     }
+
+    @media screen and (max-width:992px){
+        text-align: center;
+     }
+}
+

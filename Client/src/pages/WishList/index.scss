@@ -1,0 +1,14 @@
+.wishlist_content{
+    h5{
+        font-weight: normal;
+        font-size: 1.2rem;
+        color: var(--dark-gray-color);
+
+    }
+
+    @media screen and (max-width:992px){
+       h5{
+        display: none;
+       }
+    }
+}
